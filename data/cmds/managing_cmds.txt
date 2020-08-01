@@ -1,0 +1,12 @@
+
+    Command        Description
+    -------        -----------
+    eatpass        Remove device passcode.
+    install        Install an apk.
+    keyboard       Control device keyboard.
+    keycode        Use device keycode.
+    keycodes       List device keycodes.
+    launch         Launch an application.
+    shell          Open device shell.
+    uninstall      Uninstall an application.
+    upload         Upload local file.
